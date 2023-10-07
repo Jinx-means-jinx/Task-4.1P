@@ -1,0 +1,23 @@
+.header-div{
+    font-size: 10px;
+    background-color: aqua;
+    padding: 0.1cm;
+    display: flex;
+}
+
+h4{
+    font-size: 15px;
+    margin-left: 50cm;
+}
+
+.secondLink{
+    margin-left: 15px;
+}
+
+.thirdLink{
+    margin-left: 15px;
+}
+
+.fourthLink{
+    margin-left: 15px;
+}
