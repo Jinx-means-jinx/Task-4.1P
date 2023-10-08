@@ -43,3 +43,30 @@ h9{
     margin-left: 2100px;
     font-size: 80px;
 }
+
+.titleBottom{
+    text-align: center;
+}
+
+h10{
+    font-size: 40px;
+    padding: 10px;
+}
+
+.bottomRow{
+    font-size: 20px;
+    padding: 10px;
+}
+
+.firstLink1{
+    margin-right: 200px;
+}
+
+.secondLink1{
+    margin-right: 400px;
+   
+}
+
+.thirdLink1{
+    margin-left: -200px; 
+}

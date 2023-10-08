@@ -43,6 +43,14 @@ function Footer(){
                
                 </div>
             </div>
+            <div className='titleBottom'>
+                <h10>Dev Link </h10>
+                <div className='bottomRow'>
+                    <a className='firstLink1'  href="#">Privacy Policy</a>
+                    <a className='secondLink1' href="#">Terms</a>
+                    <a className='thirdLink1' href="#">Code of Conduct</a>
+                </div>
+            </div>
         </div>
     )
 }
